@@ -30,7 +30,7 @@ twitter_username: alicanteen
 github_username:  kahone
 
 # Build settings
-theme: hanuman
+theme: jekyll-pug-material
 plugins:
   - jekyll-feed
 
