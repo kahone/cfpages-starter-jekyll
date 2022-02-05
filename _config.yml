@@ -34,6 +34,9 @@ theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
 
+  accent_image: /assets/IMG_20200319_192418 (1).jpg
+  accent_color: navy 
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
