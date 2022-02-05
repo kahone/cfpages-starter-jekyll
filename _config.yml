@@ -30,7 +30,7 @@ twitter_username: alicanteen
 github_username:  kahone
 
 # Build settings
-theme: jekyll-theme-web-presentation
+theme: jekyll-theme-web-hydejack
 plugins:
   - jekyll-feed
 
