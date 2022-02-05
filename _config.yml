@@ -34,7 +34,7 @@ theme: jekyll-theme-hydejack
 plugins:
   - jekyll-feed
 
-accent_image: /assets/IMG_20200319_192418 (1).jpg
+accent_image: /assets/santa-barbara.jpg
 accent_color: navy 
 
 # Exclude from processing.
